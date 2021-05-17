@@ -1,0 +1,40 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-40cab394:1712ab62f59:-7ffa</id>
+  <name>gha_roads</name>
+  <nativeName>gha_roads</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--570ae188:124761b8d78:-7ff4</id>
+  </namespace>
+  <title>gha_roads</title>
+  <keywords>
+    <string>features</string>
+    <string>gha_roads</string>
+  </keywords>
+  <srs>EPSG:404000</srs>
+  <nativeBoundingBox>
+    <minx>-3.24551129341125</minx>
+    <maxx>1.19176483154297</maxx>
+    <miny>4.74753522872925</miny>
+    <maxy>11.1546068191528</maxy>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>-3.24551129341125</minx>
+    <maxx>1.19176483154297</maxx>
+    <miny>4.74753522872925</miny>
+    <maxy>11.1546068191528</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-40cab394:1712ab62f59:-7ffd</id>
+  </store>
+  <serviceConfiguration>false</serviceConfiguration>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <padWithZeros>false</padWithZeros>
+  <forcedDecimal>false</forcedDecimal>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>

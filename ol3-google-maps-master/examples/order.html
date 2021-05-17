@@ -1,0 +1,16 @@
+---
+layout: example.html
+title: Order
+shortdesc: Example where layers can be re-ordered.
+docs: >
+  In this example, layers are displayed in the table.
+  They can be re-ordered by clicking the arrow buttons
+  next to their names. The top-most layers will display in
+  front of the layers placed below them in the table. The base
+  Google layer is not affected by this, it will always display
+  behind every layer. Vector layers will also always display in
+  front of every layer while Google Maps is active.
+---
+<div id="map" class="map"></div>
+<button id="toggle" title="Toggle between OL and GMaps">Toggle between OL and GMaps</button>
+<div id="layerTree" />
